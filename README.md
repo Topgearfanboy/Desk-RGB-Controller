@@ -38,13 +38,13 @@ Note: some holes will need to be modified after print. I used a drill press but 
 - ### Case 
     <img width="400" alt="Control Box Case Diagram" src="https://github.com/user-attachments/assets/65249380-d1d4-4527-8170-c98f663e1c83">
 #### Diagram Legend
-  - Ports for external on off switch \
+  - Ports for external on/off switch \
     Ex.\
      <img src="https://github.com/user-attachments/assets/22ea5746-bb0d-4d35-922c-bf5045745ca0" alt="alt text" width="200">
   - Toggle switch to switch between lighting modes \
     Ex.
     
-    <img src="https://github.com/user-attachments/assets/183024c7-dddb-47d9-b7c2-8b3dbe652129" alt="alt text" width="200">
+    <img src="https://github.com/user-attachments/assets/5f5dcc70-88bf-49b0-815a-5d22c0213232" alt="alt text" width="200">
   - Connection to lights
   - Connection to Power Supply 
    Note: be sure voltages and power requirements of your setup are applicable for the design. I am using a 5V Power Supply to power the arduino and the RGB strip. This is not always a good idea as you have to feed the arduino 5v after the regulator which does work but can break the arduino if done incorrectly.
